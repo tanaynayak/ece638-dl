@@ -1,3 +1,6 @@
 .vscode/settings.json
 .DS_Store
 hw1/.ipynb_checkpoints/*
+hw3/.vscode/*
+hw3/data/*
+hw3/dl_data/*
